@@ -1,0 +1,13 @@
+{
+    "name": "bookreev/mcc",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bookreev\\Mcc\\": "src/"
+        }
+    },
+    "require": {}
+}
